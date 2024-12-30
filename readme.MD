@@ -1,1 +1,3 @@
 # Pokedéx
+
+## Tecnologias
