@@ -1,3 +1,5 @@
 # Pokedéx
 
 ## Tecnologias
+
+## Deploy
