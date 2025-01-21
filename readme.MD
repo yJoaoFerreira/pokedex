@@ -1,5 +1,7 @@
 # Pokedéx
 
+Uma pokedéx
+
 ## Tecnologias
 - HTML
 - CSS
